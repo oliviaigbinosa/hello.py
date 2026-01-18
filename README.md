@@ -13,7 +13,7 @@ Overview: this is a simple python code that prints " Hello, World! " to the cons
 
 Usage:
 
-Clone the repo: git clone <https://github.com/oliviaigbinosa/hello.py>
+Clone the repo: git clone <https://github.com/oliviaigbinosa/pythonCode>
 
 cd hello-world-python
 
